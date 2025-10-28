@@ -141,4 +141,3 @@ For questions or issues, please open an Issue in this repository.
 
 This README covers data preparation, model building, insights from visuals and evaluation metrics, as well as practical business usage for risk scoring and deployment.
 
-jupyter notebook Credit_risk_modelling.ipynb
