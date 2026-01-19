@@ -72,12 +72,19 @@ Metrics chosen for fraud detection must account for extreme imbalance:
 **Requirements**
 - Python 3.7+
 - Required packages (in requirements.txt):
+
   -numpy
+
   -pandas
+
   -scikit-learn
+
   -imbalanced-learn
+
   -matplotlib
+
   -seaborn
+
   -jupyter
 
   
@@ -103,9 +110,7 @@ Maintainer: [mimomaina](https://github.com/mimomaina)
 
 For questions or issues, please open an Issue in this repository.
 
----
 
-This README covers the complete workflow, code, evaluation, and interpretation of results. It is formatted for direct pasting into GitHub and provides a robust starting point for further work in credit card fraud detection.
 
 
 
