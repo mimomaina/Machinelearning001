@@ -106,7 +106,7 @@ Top features (by Gradient Boosting):
 - Packages: numpy, pandas, scikit-learn, matplotlib, seaborn, xgboost
 
 **Setup**
-git clone https://github.com/mimomaina/Machinelearning001.git
+git clone https://github.com/mimomaina/Machinelearning001.gits
 
 cd Machinelearning001/Default_of_Credit_Card_Clients
 
@@ -124,6 +124,3 @@ jupyter notebook Default_of_Credit_Card_Clients.ipynb
 - Maintainer: [mimomaina](https://github.com/mimomaina)
 
 ---
-
-**For further customization, try additional hyperparameter tuning and feature engineering. This README provides an actionable summary to use, modify, or extend the project for credit risk analytics and default prediction.**
-
